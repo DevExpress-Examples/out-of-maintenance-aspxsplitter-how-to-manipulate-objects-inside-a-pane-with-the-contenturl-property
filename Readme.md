@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [ContentPageWithTextbox.aspx](./CS/WebSite/ContentPageWithTextbox.aspx) (VB: [ContentPageWithTextbox.aspx](./VB/WebSite/ContentPageWithTextbox.aspx))
+* [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
+<!-- default file list end -->
 # ASPxSplitter - How to manipulate objects inside a pane with the ContentUrl property
 
 
