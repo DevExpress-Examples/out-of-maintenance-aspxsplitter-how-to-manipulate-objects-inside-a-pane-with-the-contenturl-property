@@ -5,6 +5,9 @@
 * [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
 <!-- default file list end -->
 # ASPxSplitter - How to manipulate objects inside a pane with the ContentUrl property
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e3927)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how to manipulate the client-side programmatic objects inside <strong>ASPxSplitter's pane</strong> with a specified <strong>ContentUrl</strong> property.</p><p>- Get the content IFrame from <strong>ASPxSplitter's</strong> pane with a specified <strong>ContentUrl</strong> property via<strong> </strong>the <a href="http://documentation.devexpress.com/#AspNet/DevExpressWebASPxSplitterScriptsASPxClientSplitterPane_GetContentUrltopic"><u>ASPxClientSplitterPane.GetContentUrl</u></a><strong> </strong>method; <br />
