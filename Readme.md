@@ -6,7 +6,7 @@
 <!-- default file list end -->
 # ASPxSplitter - How to manipulate objects inside a pane with the ContentUrl property
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e3927)**
+**[[Run Online]](https://codecentral.devexpress.com/e3927/)**
 <!-- run online end -->
 
 
