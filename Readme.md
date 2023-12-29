@@ -1,8 +1,3 @@
-<!-- default badges list -->
-![](https://img.shields.io/endpoint?url=https://codecentral.devexpress.com/api/v1/VersionRange/128555325/13.1.4%2B)
-[![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/E3927)
-[![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
-<!-- default badges end -->
 <!-- default file list -->
 *Files to look at*:
 
@@ -10,9 +5,6 @@
 * [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
 <!-- default file list end -->
 # ASPxSplitter - How to manipulate objects inside a pane with the ContentUrl property
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e3927/)**
-<!-- run online end -->
 
 
 <p>This example demonstrates how to manipulate the client-side programmatic objects inside <strong>ASPxSplitter's pane</strong> with a specified <strong>ContentUrl</strong> property.</p><p>- Get the content IFrame from <strong>ASPxSplitter's</strong> pane with a specified <strong>ContentUrl</strong> property via<strong> </strong>the <a href="http://documentation.devexpress.com/#AspNet/DevExpressWebASPxSplitterScriptsASPxClientSplitterPane_GetContentUrltopic"><u>ASPxClientSplitterPane.GetContentUrl</u></a><strong> </strong>method; <br />
